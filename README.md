@@ -15,6 +15,9 @@
 - 📚 B.Sc. Computer Science (Thiruvalluvar University, 2022)  
 - 🎓 B.Ed. (TNTU University, 2024)  
 - 🌱 Currently exploring: **React.js, Spring Boot, and ML projects**  
+- 📍 Based in Chennai, Tamil Nadu, India 🇮🇳
+
+---
 
 ## 🚀 Tech Stack
 
@@ -31,8 +34,7 @@
 
 </div>
 
-
-
+---
 
 ## 🚀 Featured Projects
 
@@ -48,12 +50,12 @@ Machine learning project analyzing the correlation between alcohol consumption p
 **Tech Stack:** JavaScript, HTML/CSS, React.js  
 Full-stack application with modern UI/UX design for streamlined student information management and academic tracking.
 
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deva-p-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-p-stack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
 </div>
 
@@ -65,8 +67,7 @@ Full-stack application with modern UI/UX design for streamlined student informat
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva-p-stack&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-
-
+---
 
 ## 🏆 GitHub Trophies
 
@@ -76,53 +77,60 @@ Full-stack application with modern UI/UX design for streamlined student informat
 
 </div>
 
-
-## 💫 Profile Views & Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=deva-p-stack&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![GitHub followers](https://img.shields.io/github/followers/deva-p-stack?style=for-the-badge&color=brightgreen&labelColor=0D1117)](https://github.com/deva-p-stack)
-
-</div>
-
-
-<div align="center">
+---
 
 ## 📈 Current Focus
-  ##### 🔥 Building scalable web applications with React and Spring Boot
-  ##### 🧠 Exploring advanced machine learning algorithms
-  ##### 📚 Learning cloud technologies (AWS/Azure)
-  ##### 🌟 Contributing to open-source projects
+
+<div align="center">
+
+🔥 **Building scalable web applications with React and Spring Boot**  
+🧠 **Exploring advanced machine learning algorithms**  
+📚 **Learning cloud technologies (AWS/Azure)**  
+🌟 **Contributing to open-source projects**
+
 </div>
 
-
+---
 
 ## 📫 Connect with Me
 
 <div align="center">
-<p align="center">
+
 <a href="https://www.linkedin.com/in/deva-web" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=devap677@gmail.com" target="_blank">
+<a href="mailto:devap677@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/deva-p-stack" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" width="50" />
 </a>
-</p>
 
-<!-- Animated text below -->
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Let's+build+something+amazing!;Always+open+to+collaborate;Coffee+%2B+Code+%3D+💝)](https://git.io/typing-svg)
 
-### 🌟 *"Code is poetry written in logic"* ✨
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding!+🚀;Let's+connect+and+grow+together!;Always+Learning+Always+coding!+💙✨;)](https://git.io/typing-svg)
+---
+
+## 💫 Profile Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=deva-p-stack&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/deva-p-stack?style=for-the-badge&color=brightgreen&labelColor=0D1117)](https://github.com/deva-p-stack)
 
 </div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Code is poetry written in logic"* ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding!+🚀;Let's+connect+and+grow+together!;Always+Learning+Always+Coding!+💙✨)](https://git.io/typing-svg)
+
+</div
