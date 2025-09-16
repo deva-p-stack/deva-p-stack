@@ -1,9 +1,14 @@
-
 # Hi there, I'm Deva 👋 (he/him)
 
-🚀 Welcome to my GitHub profile!  
-I'm passionate about **Computer Science, Web Development, and Machine Learning**.  
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;ML+Enthusiast;Always+Learning!)](https://git.io/typing-svg)
+
+</div>
+
+🚀 **Passionate about Computer Science, Web Development, and Machine Learning**
+
+---
 
 ## 👨‍🎓 About Me
 - 🎓 MSc Computer Science @ Loyola College (Madras University)  
@@ -44,29 +49,22 @@ Machine learning project analyzing the correlation between alcohol consumption p
 Full-stack application with modern UI/UX design for streamlined student information management and academic tracking.
 
 
- 
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deva-p-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
 
-![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=deva-p-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-p-stack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866"/>
+</div>
 
+<div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=deva-p-stack&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-
-
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva-p-stack&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-p-stack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="Top Languages" />
-
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=deva-p-stack&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-<div>
 
 
 
@@ -121,19 +119,10 @@ Full-stack application with modern UI/UX design for streamlined student informat
 <!-- Animated text below -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=300&lines=Let's+connect!;Let's+collaborate!;Let's+code+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Let's+build+something+amazing!;Always+open+to+collaborate;Coffee+%2B+Code+%3D+💝)](https://git.io/typing-svg)
 
-</div>
+### 🌟 *"Code is poetry written in logic"* ✨
 
-
-<div align="center">
-
-### 🌟 Thanks for visiting my profile! 🌟
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer;🤖+ML+Enthusiast;🚀+Always+Learning+%26+Always+Coding!)](https://git.io/typing-svg)
-
-
-
-*"Code is poetry written in logic"* ✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding!+🚀;Let's+connect+and+grow+together!;Always+Learning+Always+coding!+💙✨;)](https://git.io/typing-svg)
 
 </div>
