@@ -11,21 +11,22 @@ I'm passionate about **Computer Science, Web Development, and Machine Learning**
 - 🎓 B.Ed. (TNTU University, 2024)  
 - 🌱 Currently exploring: **React.js, Spring Boot, and ML projects**  
 
-
-## Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### Programming & Web Development
-[![My Skills](https://skillicons.dev/icons?i=python,java,typescript,cpp,html,css,js,react,spring&theme=dark)](https://skillicons.dev)
+### 💻 Programming & Web Development
+<a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="45" width="45"/></a>&nbsp;<a href="https://java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" height="45" width="45"/></a>&nbsp;<a href="https://typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" height="45" width="45"/></a>&nbsp;<a href="https://cplusplus.com" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="45" width="45"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="45" width="45"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="45" width="45"/></a>&nbsp;<a href="https://javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="45" width="45"/></a>&nbsp;<a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="45" width="45"/></a>&nbsp;<a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" height="45" width="45"/></a>
 
-### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,docker,aws)](https://skillicons.dev)
+### 🛠️ Tools & Platforms
+<a href="https://mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="45" width="45"/></a>&nbsp;<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="45" width="45"/></a>&nbsp;<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="45" width="45"/></a>&nbsp;<a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="45" width="45"/></a>&nbsp;<a href="https://docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="45" width="45"/></a>&nbsp;<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="45" width="45"/></a>
 
-### Data Science Stack
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda&theme=dark)](https://skillicons.dev)
+### 📊 Data Science Stack
+<a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="45" width="45"/></a>&nbsp;<a href="https://tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="45" width="45"/></a>&nbsp;<a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="45" width="45"/></a>&nbsp;<a href="https://anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" height="45" width="45"/></a>
 
 </div>
+
+
 
 
 ## 🚀 Featured Projects
@@ -63,11 +64,7 @@ Full-stack application with modern UI/UX design for streamlined student informat
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-p-stack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="Top Languages" />
 
 
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deva-p-stack&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=deva-p-stack&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <div>
 
